@@ -8,10 +8,14 @@ int sumOfDigits(int n) {
     n = n / 10;
     }
     return sum;
-}int main() {
+}
+int main() {
     int n;
     printf("Enter a number: ");
     scanf("%d", &n);
     printf("Sum of digits = %d", sumOfDigits(n));
     return 0;
 }
+        //output
+// Enter a number: 4123
+// Sum of digits = 10

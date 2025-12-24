@@ -13,3 +13,7 @@ int a, b;
     printf("After swap: a = %d, b = %d", a, b);
     return 0;
 }
+// output -
+// Enter two numbers: 4
+// 5
+// After swap: a = 5, b = 4
