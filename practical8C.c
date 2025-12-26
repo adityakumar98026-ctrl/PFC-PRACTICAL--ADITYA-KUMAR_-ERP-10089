@@ -1,4 +1,5 @@
 //Write a function to prints a right angle triangle of stars of height n.
+                                               // Name -Aditya kumar               ERP-10089
 #include<stdio.h>
 int main(){
     int i, j, n;

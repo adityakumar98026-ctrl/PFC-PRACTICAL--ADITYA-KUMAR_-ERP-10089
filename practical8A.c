@@ -1,5 +1,6 @@
 //1. Write Function sumOfDigits that take n as input and return sum of its digits 
       // Eg n = 4123  output = 10
+                                                //Name -Aditya kumar               ERP-10089
 #include <stdio.h>
 int sumOfDigits(int n) {
     int sum = 0;

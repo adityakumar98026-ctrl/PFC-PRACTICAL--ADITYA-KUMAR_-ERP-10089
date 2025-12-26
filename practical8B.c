@@ -1,4 +1,4 @@
-//Swap 2 numbers using pass by reference
+//Swap 2 numbers using pass by reference                        Name -Aditya kumar               ERP-10089
 #include <stdio.h>
 void swap(int *a, int *b) {
 int temp = *a;
